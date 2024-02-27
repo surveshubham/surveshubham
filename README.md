@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @surveshubham
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning nodejs
-- 💞️ I’m looking for internship
 - 📫 can gmail on shubhamsurve704@gmail.com
 
 <!---
